@@ -1,0 +1,14 @@
+pandas
+numpy
+telethon
+re
+dotenv
+transformers 
+datasets
+PyTorch
+TensorFlow
+Flax
+evaluate
+accelerate
+shap
+seqeval
